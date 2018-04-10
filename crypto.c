@@ -2,7 +2,6 @@
 Crypto v2.0
 Written by Ken
 mailto: kayan_azimov@mail.ru
-http://www.kayan76.f2s.com
 Baku, Azerbaijan, Oct 2001.
 
 Features:
